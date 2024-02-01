@@ -1,2 +1,2 @@
-# GenZGPT-lab-4-
+# GenZGPT-Project
 cmput 301 repository for lab and project
