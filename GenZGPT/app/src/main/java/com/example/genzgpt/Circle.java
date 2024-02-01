@@ -1,6 +1,6 @@
 package main.java.com.example.genzgpt;
 
-public abstract class Shape {
+public class Circle extends Shape{
     int x;
     int y;
 }
