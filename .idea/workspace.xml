@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0aeb64ce-8f18-4cc4-817e-75e36e756055" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GenZGPT/app/src/main/java/com/example/genzgpt/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GenZGPT/app/src/main/java/com/example/genzgpt/Dodecahedron.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GenZGPT/app/src/main/java/com/example/genzgpt/Rhombicosidodecahedron.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GenZGPT/app/src/main/java/com/example/genzgpt/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GenZGPT/app/src/main/java/com/example/genzgpt/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/GenZGPT/app/src/main/java/com/example/genzgpt/Shape.java" afterDir="false" />
     </list>
@@ -45,7 +41,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
     "git-widget-placeholder": "Merging Hashim",
+    "last_opened_file_path": "C:/Users/dvtay/GitHub/CMPUT301W24T16",
     "settings.editor.selected.configurable": "AndroidSdkUpdater"
   }
 }]]></component>
