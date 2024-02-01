@@ -1,2 +1,4 @@
-package com.example.genzgpt;public class Dodecahedron {
+package com.example.genzgpt;
+
+public class Dodecahedron extends Shape{
 }
